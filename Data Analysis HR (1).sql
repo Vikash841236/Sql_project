@@ -92,7 +92,7 @@ WHERE termdate IS NULL
 GROUP BY location;
 
 
--- 5. What is the average length of employement who have been teminated.
+-- 5. What is the average length of employement who have been terminated.
 SELECT ROUND(AVG(year(termdate) - year(hire_date)),0) AS length_of_emp
 FROM hr
 WHERE termdate IS NOT NULL AND termdate <= curdate()
