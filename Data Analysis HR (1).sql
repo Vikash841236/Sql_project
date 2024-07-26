@@ -10,6 +10,7 @@ ALTER TABLE hr
 CHANGE COLUMN ï»¿id emp_id VARCHAR(20) NULL;
 
 DESCRIBE hr
+-- change the data format and datatype of birthdate column
 
 SET sql_safe_updates = 0;
 
@@ -56,7 +57,6 @@ SET age = timestampdiff(YEAR,birthdate,curdate())
 SELECT min(age), max(age) FROM hr
 
 -- 1. What is the gender breakdown of employees in the company
-SELECT * FROM hr
 
 SELECT gender, COUNT(*) AS count 
 FROM hr
@@ -147,7 +147,7 @@ WHERE termdate IS NULL
 GROUP BY location_city
 
 -- 10. How has the companys employee count changed over time based on hire and termination date.
-SELECT * FROM hr
+
 
 SELECT year,
 		hires,
