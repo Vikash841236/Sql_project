@@ -1,6 +1,6 @@
 # HR Data Analytics Project
 
-![framework](images/framework.jpg)
+(\Users\vkp02\Downloads\framework.jpg)
 
 ## Overview
 
