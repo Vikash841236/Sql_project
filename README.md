@@ -46,7 +46,7 @@ The core of this project revolves around data analysis. We explore various aspec
 
 
 
-You may make a variety of visualizations in Power BI, such as bar charts, line graphs, pie charts, and heat maps. Make the visualizations specific to the measurements and patterns you want to highlight.
+I have taken some visualizations in Power BI, such as bar charts, line graphs, pie charts, and heat maps. Make the visualizations specific to the measurements and patterns i wanted to highlight.
 
 ## Tools Used
 
