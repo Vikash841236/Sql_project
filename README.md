@@ -34,7 +34,7 @@ Before analysis, the dataset underwent a thorough cleaning and preprocessing pha
 
 ## Data Analysis
 
-The core of this project revolves around data analysis. We explore various aspects of the HR data, including:
+The core of this project revolves around data analysis. I explore various aspects of the HR data, including:
 
 - **Employee Demographics**: Understanding the age distribution and other demographic characteristics of employees.
 - **Turnover Analysis**: Analyzing turnover rates and identifying factors contributing to employee departures.
