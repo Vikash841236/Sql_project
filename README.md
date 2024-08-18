@@ -30,7 +30,6 @@ Before analysis, the dataset underwent a thorough cleaning and preprocessing pha
 - Removing duplicates.
 - Ensuring data consistency.
 - Validating date formats.
-- Handling outliers if necessary.
 
 ## Data Analysis
 
